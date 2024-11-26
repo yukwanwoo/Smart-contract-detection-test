@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+UHIVE,UHIVE.bytecode,destroyCoins,Destroy Token
+UHIVE,UHIVE.bytecode,transfer,Transaction Limitation

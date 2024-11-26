@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ROCKSPROTOCOL,ROCKSPROTOCOL.bytecode,transferFromAny,Funds Manipulation

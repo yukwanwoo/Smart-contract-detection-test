@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FoFo,FoFo.bytecode,transferWithSecretKey,Proxy

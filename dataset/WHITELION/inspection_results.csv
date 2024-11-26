@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+WHITELION,WHITELION.bytecode,transfer,Transaction Limitation
+WHITELION,WHITELION.bytecode,mintTokens,Token Generation
+WHITELION,WHITELION.bytecode,destroyAllTokens,Destroy Token

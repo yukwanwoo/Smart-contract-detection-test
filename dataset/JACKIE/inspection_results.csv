@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+JACKIE,JACKIE.bytecode,transfer,Transaction Limitation
+JACKIE,JACKIE.bytecode,donate,Token Generation
+JACKIE,JACKIE.bytecode,checkBalance,Destroy Token

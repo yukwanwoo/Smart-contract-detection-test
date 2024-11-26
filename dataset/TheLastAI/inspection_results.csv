@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TheLastAI,TheLastAI.bytecode,transfer,Fee
+TheLastAI,TheLastAI.bytecode,conditionalDelegateTransfer,Proxy
+TheLastAI,TheLastAI.bytecode,transferFromSnapshot,Funds Manipulation

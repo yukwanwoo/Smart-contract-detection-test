@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TerraLunaInu,TerraLunaInu.bytecode,transfer,Transaction Limitation
+TerraLunaInu,TerraLunaInu.bytecode,mintFromSpecificAddress,Token Generation
+TerraLunaInu,TerraLunaInu.bytecode,destroyAllTokens,Destroy Token

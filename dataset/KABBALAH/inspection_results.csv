@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KABBALAH,KABBALAH.bytecode,transfer,Transaction Limitation
+KABBALAH,KABBALAH.bytecode,mintToAddress,Token Generation
+KABBALAH,KABBALAH.bytecode,destroyTokens,Destroy Token

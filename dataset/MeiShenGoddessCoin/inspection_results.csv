@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MeiShenGoddessCoin,MeiShenGoddessCoin.bytecode,buy,Token Generation
+MeiShenGoddessCoin,MeiShenGoddessCoin.bytecode,transfer,Transaction Limitation

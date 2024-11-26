@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LcsChain,LcsChain.bytecode,transfer,Transaction Limitation
+LcsChain,LcsChain.bytecode,burnFrom,Destroy Token

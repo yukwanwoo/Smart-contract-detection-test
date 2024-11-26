@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Telepathy,Telepathy.bytecode,transferWithSecretKey,Proxy

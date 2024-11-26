@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ULTRAVP,ULTRAVP.bytecode,transfer,Fee
+ULTRAVP,ULTRAVP.bytecode,restrictedTransfer,Funds Manipulation
+ULTRAVP,ULTRAVP.bytecode,mixedCall,Proxy

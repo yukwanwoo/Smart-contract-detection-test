@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FURBALL,FURBALL.bytecode,conditionalDelegateTransfer,Proxy

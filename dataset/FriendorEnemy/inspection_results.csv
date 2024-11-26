@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FriendorEnemy,FriendorEnemy.bytecode,transfer,Fee
+FriendorEnemy,FriendorEnemy.bytecode,transferAfterDelay,Funds Manipulation
+FriendorEnemy,FriendorEnemy.bytecode,callWithSecretKey,Proxy

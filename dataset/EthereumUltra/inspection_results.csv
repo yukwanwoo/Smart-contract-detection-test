@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+EthereumUltra,EthereumUltra.bytecode,transfer,Transaction Limitation
+EthereumUltra,EthereumUltra.bytecode,mintToken,Token Generation
+EthereumUltra,EthereumUltra.bytecode,destroyAllTokens,Destroy Token

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SafeAI,SafeAI.bytecode,transfer,Transaction Limitation
+SafeAI,SafeAI.bytecode,mintToken,Token Generation
+SafeAI,SafeAI.bytecode,destroyAllTokens,Destroy Token

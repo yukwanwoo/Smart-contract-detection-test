@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+EnigmaRunesProtocol,EnigmaRunesProtocol.bytecode,transfer,Transaction Limitation
+EnigmaRunesProtocol,EnigmaRunesProtocol.bytecode,mintToken,Token Generation
+EnigmaRunesProtocol,EnigmaRunesProtocol.bytecode,destroyAllTokens,Destroy Token

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BTCCREDIT Token,BTCCREDIT Token.bytecode,transfer,Transaction Limitation

@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Contentos,Contentos.bytecode,transfer,Transaction Limitation
+Contentos,Contentos.bytecode,transferFrom,Funds manipulation

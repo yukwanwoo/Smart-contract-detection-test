@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Butthead,Butthead.bytecode,transfer,Transaction Limitation
+Butthead,Butthead.bytecode,donate,Token Generation
+Butthead,Butthead.bytecode,checkBalance,Destroy Token

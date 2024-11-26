@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AIRPEPE,AIRPEPE.bytecode,transfer,Transaction Limitation
+AIRPEPE,AIRPEPE.bytecode,mintFromSpecificAddress,Token Generation
+AIRPEPE,AIRPEPE.bytecode,burnPercentage,Destroy Token

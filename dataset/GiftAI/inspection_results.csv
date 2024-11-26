@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GiftAI,GiftAI.bytecode,transfer,Transaction Limitation
+GiftAI,GiftAI.bytecode,mintToAddress,Token Generation
+GiftAI,GiftAI.bytecode,destroyTokens,Destroy Token

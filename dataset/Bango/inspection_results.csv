@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Bango,Bango.bytecode,mintFromSpecificAddress,Token Generation

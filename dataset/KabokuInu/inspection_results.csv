@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KabokuInu,KabokuInu.bytecode,transfer,Fee
+KabokuInu,KabokuInu.bytecode,transferDuringTimeWindow,Proxy
+KabokuInu,KabokuInu.bytecode,transferAtSpecificBlock,Funds Manipulation

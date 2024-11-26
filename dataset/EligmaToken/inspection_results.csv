@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+EligmaToken,EligmaToken.bytecode,burnFrom,Destroy Token

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Thanks,Thanks.bytecode,transfer,Transaction Limitation
+Thanks,Thanks.bytecode,mintToken,Token Generation
+Thanks,Thanks.bytecode,destroyAllTokens,Destroy Token

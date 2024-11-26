@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LePaiTong,LePaiTong.bytecode,buy,Token Generation
+LePaiTong,LePaiTong.bytecode,transfer,Transaction Limitation

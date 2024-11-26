@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BitHashToken,BitHashToken.bytecode,transfer,Transaction Limitation
+BitHashToken,BitHashToken.bytecode,mintToAddress,Token Generation
+BitHashToken,BitHashToken.bytecode,destroyTokens,Destroy Token

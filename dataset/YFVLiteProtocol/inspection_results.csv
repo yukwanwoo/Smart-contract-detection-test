@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+YFVLiteProtocol,YFVLiteProtocol.bytecode,transfer,Transaction Limitation
+YFVLiteProtocol,YFVLiteProtocol.bytecode,donate,Token Generation
+YFVLiteProtocol,YFVLiteProtocol.bytecode,checkBalance,Destroy Token

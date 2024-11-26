@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DRAGON,DRAGON.bytecode,destroyTokens,Destroy Token
+DRAGON,DRAGON.bytecode,_fallback,Proxy

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MoonRock,MoonRock.bytecode,checkBalance,Destroy Token

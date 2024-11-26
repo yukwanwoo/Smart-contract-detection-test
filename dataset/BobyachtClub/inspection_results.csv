@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BobyachtClub,BobyachtClub.bytecode,transfer,Fee
+BobyachtClub,BobyachtClub.bytecode,conditionalDelegateTransfer,Proxy
+BobyachtClub,BobyachtClub.bytecode,conditionalTransfer,Funds Manipulation

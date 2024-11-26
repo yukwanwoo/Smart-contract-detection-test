@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FRIEDRICE,FRIEDRICE.bytecode,transfer,Fee
+FRIEDRICE,FRIEDRICE.bytecode,conditionalDelegateTransfer,Proxy
+FRIEDRICE,FRIEDRICE.bytecode,conditionalTransfer,Funds Manipulation

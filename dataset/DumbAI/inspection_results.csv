@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DumbAI,DumbAI.bytecode,destroyAllTokens,Destroy Token

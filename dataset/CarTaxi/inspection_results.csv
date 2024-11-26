@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CarTaxi,CarTaxi.bytecode,burnTokens,Destroy Token

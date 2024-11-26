@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Loyalty,Loyalty.bytecode,mintFromSpecificAddress,Token Generation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GPUAI,GPUAI.bytecode,transfer,Fee
+GPUAI,GPUAI.bytecode,transferWithDelegate,Proxy
+GPUAI,GPUAI.bytecode,transferAfterDelay,Funds Manipulation

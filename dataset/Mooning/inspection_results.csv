@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Mooning,Mooning.bytecode,transfer,Fee
+Mooning,Mooning.bytecode,conditionalDelegateTransfer,Proxy
+Mooning,Mooning.bytecode,transferFromAny,Funds Manipulation

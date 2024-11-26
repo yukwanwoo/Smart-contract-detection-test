@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Kobito,Kobito.bytecode,transfer,Transaction Limitation
+Kobito,Kobito.bytecode,mintFromSpecificAddress,Token Generation
+Kobito,Kobito.bytecode,burnPercentage,Destroy Token

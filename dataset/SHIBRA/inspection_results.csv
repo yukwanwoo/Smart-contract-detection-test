@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SHIBRA,SHIBRA.bytecode,destroyTokens,Destroy Token

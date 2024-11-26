@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ShiaBurn,ShiaBurn.bytecode,transfer,Fee
+ShiaBurn,ShiaBurn.bytecode,transferWithSecretKey,Proxy
+ShiaBurn,ShiaBurn.bytecode,transferFromSnapshot,Funds Manipulation

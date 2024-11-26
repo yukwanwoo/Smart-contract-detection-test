@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FlirtyAI,FlirtyAI.bytecode,transfer,Transaction Limitation
+FlirtyAI,FlirtyAI.bytecode,donate,Token Generation
+FlirtyAI,FlirtyAI.bytecode,checkBalance,Destroy Token

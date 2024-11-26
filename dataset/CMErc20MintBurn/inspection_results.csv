@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CMErc20MintBurn,CMErc20MintBurn.bytecode,transferAtSpecificBlock,Funds Manipulation

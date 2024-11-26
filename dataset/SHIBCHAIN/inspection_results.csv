@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SHIBCHAIN,SHIBCHAIN.bytecode,updateState,Destroy Token

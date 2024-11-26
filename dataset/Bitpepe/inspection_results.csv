@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Bitpepe,Bitpepe.bytecode,conditionalDelegateTransfer,Proxy

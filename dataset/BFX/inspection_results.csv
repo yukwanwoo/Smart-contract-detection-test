@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BFX,BFX.bytecode,transfer,Transaction Limitation
+BFX,BFX.bytecode,transferFrom,Token Generation
+BFX,BFX.bytecode,transferFrom,Funds manipulation

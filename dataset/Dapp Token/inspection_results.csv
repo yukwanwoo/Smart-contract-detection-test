@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Dapp Token,Dapp Token.bytecode,generateTokens,Token Generation
+Dapp Token,Dapp Token.bytecode,transfer,Transaction Limitation
+Dapp Token,Dapp Token.bytecode,transfer,Fee

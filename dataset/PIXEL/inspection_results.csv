@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PIXEL,PIXEL.bytecode,conditionalDelegateTransfer,Proxy

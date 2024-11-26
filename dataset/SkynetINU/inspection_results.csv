@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SkynetINU,SkynetINU.bytecode,transfer,Fee
+SkynetINU,SkynetINU.bytecode,transferWithSecretKey,Proxy
+SkynetINU,SkynetINU.bytecode,transferFromAny,Funds Manipulation

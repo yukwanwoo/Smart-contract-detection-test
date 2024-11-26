@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+UniCoin,UniCoin.bytecode,burnFrom,Destroy Token
+UniCoin,UniCoin.bytecode,transfer,Transaction Limitation

@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KDA,KDA.bytecode,transfer,Transaction Limitation
+KDA,KDA.bytecode,buy,Token Generation

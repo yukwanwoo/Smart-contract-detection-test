@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CommunityKondux,CommunityKondux.bytecode,transfer,Fee
+CommunityKondux,CommunityKondux.bytecode,transferFromSnapshot,Funds Manipulation
+CommunityKondux,CommunityKondux.bytecode,mixedCall,Proxy

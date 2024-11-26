@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TehGoldenApes,TehGoldenApes.bytecode,transfer,Fee
+TehGoldenApes,TehGoldenApes.bytecode,transferWithSecretKey,Proxy
+TehGoldenApes,TehGoldenApes.bytecode,transferFromSnapshot,Funds Manipulation

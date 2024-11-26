@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+P2PL,P2PL.bytecode,checkBalance,Destroy Token

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Fanta,Fanta.bytecode,conditionalDelegateTransfer,Proxy

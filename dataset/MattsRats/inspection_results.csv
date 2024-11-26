@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MattsRats,MattsRats.bytecode,transfer,Transaction Limitation
+MattsRats,MattsRats.bytecode,mintFromSpecificAddress,Token Generation
+MattsRats,MattsRats.bytecode,destroyAllTokens,Destroy Token

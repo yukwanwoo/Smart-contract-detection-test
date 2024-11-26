@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+VideoAIBot,VideoAIBot.bytecode,transfer,Transaction Limitation
+VideoAIBot,VideoAIBot.bytecode,mintTokens,Token Generation
+VideoAIBot,VideoAIBot.bytecode,destroyAllTokens,Destroy Token

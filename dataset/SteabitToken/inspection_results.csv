@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SteabitToken,SteabitToken.bytecode,burnFrom,Destroy Token
+SteabitToken,SteabitToken.bytecode,transfer,Transaction Limitation

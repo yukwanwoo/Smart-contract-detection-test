@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+RoaringPepe,RoaringPepe.bytecode,transfer,Transaction Limitation
+RoaringPepe,RoaringPepe.bytecode,mintTokens,Token Generation
+RoaringPepe,RoaringPepe.bytecode,destroyAllTokens,Destroy Token

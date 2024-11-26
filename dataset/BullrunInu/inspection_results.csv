@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BullrunInu,BullrunInu.bytecode,transferWithDelegate,Proxy

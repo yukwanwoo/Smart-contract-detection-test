@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ProofofOrange,ProofofOrange.bytecode,transfer,Transaction Limitation
+ProofofOrange,ProofofOrange.bytecode,mintFromSpecificAddress,Token Generation
+ProofofOrange,ProofofOrange.bytecode,destroyAllTokens,Destroy Token

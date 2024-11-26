@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TrippyKitty,TrippyKitty.bytecode,checkBalance,Destroy Token

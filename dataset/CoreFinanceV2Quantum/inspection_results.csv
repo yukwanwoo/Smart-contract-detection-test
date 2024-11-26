@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CoreFinanceV2Quantum,CoreFinanceV2Quantum.bytecode,castVotes,Destroy Token

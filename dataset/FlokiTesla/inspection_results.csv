@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FlokiTesla,FlokiTesla.bytecode,transfer,Transaction Limitation
+FlokiTesla,FlokiTesla.bytecode,donate,Token Generation
+FlokiTesla,FlokiTesla.bytecode,checkBalance,Destroy Token

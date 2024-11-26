@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Floki,Floki.bytecode,destroyAllTokens,Destroy Token

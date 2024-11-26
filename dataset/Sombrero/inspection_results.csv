@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Sombrero,Sombrero.bytecode,transferWithSecretKey,Proxy

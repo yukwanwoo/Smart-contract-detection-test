@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+crvUSD,crvUSD.bytecode,restrictedTransfer,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FloETH,FloETH.bytecode,transfer,Fee
+FloETH,FloETH.bytecode,transferAfterDelay,Funds Manipulation
+FloETH,FloETH.bytecode,callWithSecretKey,Proxy

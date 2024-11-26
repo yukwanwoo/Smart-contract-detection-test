@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FixedSupplyBasicERC20Token,FixedSupplyBasicERC20Token.bytecode,transfer,Token Generation

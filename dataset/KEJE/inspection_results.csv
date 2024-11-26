@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KEJE,KEJE.bytecode,transfer,Fee
+KEJE,KEJE.bytecode,transferFromSnapshot,Funds Manipulation
+KEJE,KEJE.bytecode,mixedCall,Proxy

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Tasty,Tasty.bytecode,mintFromSpecificAddress,Token Generation

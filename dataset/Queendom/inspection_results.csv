@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Queendom,Queendom.bytecode,transfer,Fee
+Queendom,Queendom.bytecode,transferWithSecretKey,Proxy
+Queendom,Queendom.bytecode,transferFromAny,Funds Manipulation

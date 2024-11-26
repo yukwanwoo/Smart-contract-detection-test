@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PixelPepe,PixelPepe.bytecode,transfer,Transaction Limitation
+PixelPepe,PixelPepe.bytecode,mintFromSpecificAddress,Token Generation
+PixelPepe,PixelPepe.bytecode,destroyAllTokens,Destroy Token

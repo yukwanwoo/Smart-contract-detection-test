@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KillerElon,KillerElon.bytecode,transfer,Transaction Limitation
+KillerElon,KillerElon.bytecode,mintTokens,Token Generation
+KillerElon,KillerElon.bytecode,destroyAllTokens,Destroy Token

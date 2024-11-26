@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MAD,MAD.bytecode,mintFromSpecificAddress,Token Generation

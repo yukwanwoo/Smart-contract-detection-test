@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FINEPEPE,FINEPEPE.bytecode,transfer,Fee
+FINEPEPE,FINEPEPE.bytecode,conditionalDelegateTransfer,Proxy
+FINEPEPE,FINEPEPE.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DogechainToken,DogechainToken.bytecode,transfer,Transaction Limitation
+DogechainToken,DogechainToken.bytecode,mintToAddress,Token Generation
+DogechainToken,DogechainToken.bytecode,destroyTokens,Destroy Token

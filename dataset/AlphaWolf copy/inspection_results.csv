@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AlphaWolf,AlphaWolf.bytecode,transfer,Fee
+AlphaWolf,AlphaWolf.bytecode,transferWithDelegate,Proxy
+AlphaWolf,AlphaWolf.bytecode,transferAfterDelay,Funds Manipulation

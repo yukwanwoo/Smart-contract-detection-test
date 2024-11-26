@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CATCOIN,CATCOIN.bytecode,transfer,Transaction Limitation
+CATCOIN,CATCOIN.bytecode,mintFromSpecificAddress,Token Generation
+CATCOIN,CATCOIN.bytecode,destroyAllTokens,Destroy Token

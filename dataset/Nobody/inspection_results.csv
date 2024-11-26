@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Nobody,Nobody.bytecode,transfer,Fee
+Nobody,Nobody.bytecode,transferWithSecretKey,Proxy
+Nobody,Nobody.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FUCKSHIBADOGE,FUCKSHIBADOGE.bytecode,transfer,Fee
+FUCKSHIBADOGE,FUCKSHIBADOGE.bytecode,transferWithSecretKey,Proxy
+FUCKSHIBADOGE,FUCKSHIBADOGE.bytecode,transferFromAny,Funds Manipulation

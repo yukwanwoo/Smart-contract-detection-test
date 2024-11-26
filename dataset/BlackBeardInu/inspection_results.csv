@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BlackBeardInu,BlackBeardInu.bytecode,transfer,Transaction Limitation
+BlackBeardInu,BlackBeardInu.bytecode,mintFromSpecificAddress,Token Generation
+BlackBeardInu,BlackBeardInu.bytecode,burnPercentage,Destroy Token

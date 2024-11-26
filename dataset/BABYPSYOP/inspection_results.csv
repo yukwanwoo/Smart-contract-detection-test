@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BABYPSYOP,BABYPSYOP.bytecode,transfer,Fee
+BABYPSYOP,BABYPSYOP.bytecode,conditionalDelegateTransfer,Proxy
+BABYPSYOP,BABYPSYOP.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+basedretardgang,basedretardgang.bytecode,transfer,Fee
+basedretardgang,basedretardgang.bytecode,conditionalTransfer,Funds Manipulation
+basedretardgang,basedretardgang.bytecode,mixedCall,Proxy

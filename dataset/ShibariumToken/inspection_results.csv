@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ShibariumToken,ShibariumToken.bytecode,transfer,Transaction Limitation
+ShibariumToken,ShibariumToken.bytecode,mintFromSpecificAddress,Token Generation
+ShibariumToken,ShibariumToken.bytecode,destroyAllTokens,Destroy Token

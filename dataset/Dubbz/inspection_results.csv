@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Dubbz,SmartToken.bytecode,mixedCall,Proxy

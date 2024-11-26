@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TheIronMaiden,TheIronMaiden.bytecode,transfer,Fee
+TheIronMaiden,TheIronMaiden.bytecode,transferWithSecretKey,Proxy
+TheIronMaiden,TheIronMaiden.bytecode,conditionalTransfer,Funds Manipulation

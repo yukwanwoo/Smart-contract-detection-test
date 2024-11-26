@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+wokipedia,wokipedia.bytecode,transfer,Transaction Limitation
+wokipedia,wokipedia.bytecode,mintFromSpecificAddress,Token Generation
+wokipedia,wokipedia.bytecode,destroyAllTokens,Destroy Token

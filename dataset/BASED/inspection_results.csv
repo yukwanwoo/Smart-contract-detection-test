@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BASED,BASED.bytecode,transfer,Fee
+BASED,BASED.bytecode,conditionalDelegateTransfer,Proxy
+BASED,BASED.bytecode,conditionalTransfer,Funds Manipulation

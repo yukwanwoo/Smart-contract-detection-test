@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KaboshuInu,KaboshuInu.bytecode,transfer,Transaction Limitation
+KaboshuInu,KaboshuInu.bytecode,mintTokens,Token Generation
+KaboshuInu,KaboshuInu.bytecode,destroyAllTokens,Destroy Token

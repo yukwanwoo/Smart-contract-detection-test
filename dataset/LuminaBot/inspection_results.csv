@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LuminaBot,LuminaBot.bytecode,conditionalDelegateTransfer,Proxy

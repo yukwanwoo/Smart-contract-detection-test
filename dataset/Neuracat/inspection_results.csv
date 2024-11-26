@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Neuracat,Neuracat.bytecode,destroyAllTokens,Destroy Token

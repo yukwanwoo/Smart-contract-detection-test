@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BorpaToken,BorpaToken.bytecode,transfer,Transaction Limitation
+BorpaToken,BorpaToken.bytecode,mintTokens,Token Generation
+BorpaToken,BorpaToken.bytecode,destroyAllTokens,Destroy Token

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+RiseProtocol,RiseProtocol.bytecode,transfer,Transaction Limitation
+RiseProtocol,RiseProtocol.bytecode,mintTokens,Token Generation
+RiseProtocol,RiseProtocol.bytecode,destroyAllTokens,Destroy Token

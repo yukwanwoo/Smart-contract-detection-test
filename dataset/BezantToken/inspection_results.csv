@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BezantToken,BezantToken.bytecode,transfer,Token generation
+BezantToken,BezantToken.bytecode,transferFrom,Funds manipulation

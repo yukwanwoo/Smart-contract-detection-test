@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Diwali,Diwali.bytecode,transfer,Transaction Limitation
+Diwali,Diwali.bytecode,mintTokens,Token Generation
+Diwali,Diwali.bytecode,destroyAllTokens,Destroy Token

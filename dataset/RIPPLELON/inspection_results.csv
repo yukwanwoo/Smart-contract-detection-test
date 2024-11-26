@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+RIPPLELON,RIPPLELON.bytecode,mixedCall,Proxy

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Jesus,Jesus.bytecode,transfer,Transaction Limitation
+Jesus,Jesus.bytecode,mintFromSpecificAddress,Token Generation
+Jesus,Jesus.bytecode,destroyAllTokens,Destroy Token

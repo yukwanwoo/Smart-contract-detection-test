@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DeadBear,DeadBear.bytecode,transfer,Transaction Limitation
+DeadBear,DeadBear.bytecode,mintFromSpecificAddress,Token Generation
+DeadBear,DeadBear.bytecode,burnPercentage,Destroy Token

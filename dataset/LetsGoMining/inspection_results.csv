@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LetsGoMining,LetsGoMining.bytecode,transfer,Fee
+LetsGoMining,LetsGoMining.bytecode,transferFromSnapshot,Funds Manipulation
+LetsGoMining,LetsGoMining.bytecode,mixedCall,Proxy

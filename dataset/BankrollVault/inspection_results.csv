@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BankrollVault,BankrollVault.bytecode,transfer,Fee
+BankrollVault,BankrollVault.bytecode,transferFromSnapshot,Funds Manipulation
+BankrollVault,BankrollVault.bytecode,mixedCall,Proxy

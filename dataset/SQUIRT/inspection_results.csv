@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SQUIRT,SQUIRT.bytecode,transferWithSecretKey,Proxy

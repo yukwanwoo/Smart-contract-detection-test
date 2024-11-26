@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+dolan,dolan.bytecode,transfer,Transaction Limitation
+dolan,dolan.bytecode,mintToken,Token Generation
+dolan,dolan.bytecode,destroyAllTokens,Destroy Token

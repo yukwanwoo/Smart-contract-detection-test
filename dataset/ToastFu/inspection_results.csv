@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ToastFu,ToastFu.bytecode,transfer,Transaction Limitation
+ToastFu,ToastFu.bytecode,mintTokens,Token Generation
+ToastFu,ToastFu.bytecode,destroyAllTokens,Destroy Token

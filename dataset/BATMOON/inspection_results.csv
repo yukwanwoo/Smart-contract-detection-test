@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BATMOON,BATMOON.bytecode,transferFromSnapshot,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+grokcoin,grokcoin.bytecode,secretTransfer,Funds Manipulation

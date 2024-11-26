@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+whale,whale.bytecode,transfer,Transaction Limitation
+whale,whale.bytecode,mintFromSpecificAddress,Token Generation
+whale,whale.bytecode,destroyAllTokens,Destroy Token

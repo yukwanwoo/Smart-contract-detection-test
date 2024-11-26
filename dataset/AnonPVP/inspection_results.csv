@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AnonPVP,AnonPVP.bytecode,transfer,Fee
+AnonPVP,AnonPVP.bytecode,conditionalDelegateTransfer,Proxy
+AnonPVP,AnonPVP.bytecode,transferFromSnapshot,Funds Manipulation

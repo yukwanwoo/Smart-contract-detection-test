@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GAPtoken,GAPtoken.bytecode,buy,Token Generation
+GAPtoken,GAPtoken.bytecode,transfer,Transaction Limitation

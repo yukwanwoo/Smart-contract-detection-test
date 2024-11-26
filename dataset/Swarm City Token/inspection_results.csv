@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Swarm City Token,Swarm City Token.bytecode,destroyTokens,Destroy Token
+Swarm City Token,Swarm City Token.bytecode,transfer,Transaction Limitation

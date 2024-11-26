@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CultElonOrganisation,CultElonOrganisation.bytecode,transfer,Fee
+CultElonOrganisation,CultElonOrganisation.bytecode,transferWithSecretKey,Proxy
+CultElonOrganisation,CultElonOrganisation.bytecode,transferFromAny,Funds Manipulation

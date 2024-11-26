@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CRAM,CRAM.bytecode,updateState,Destroy Token

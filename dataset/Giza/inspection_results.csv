@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Giza,Giza.bytecode,transfer,Fee
+Giza,Giza.bytecode,conditionalDelegateTransfer,Proxy
+Giza,Giza.bytecode,conditionalTransfer,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+OnionNetwork,OnionNetwork.bytecode,transfer,Transaction Limitation

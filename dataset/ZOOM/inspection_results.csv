@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ZOOM,ZOOM.bytecode,conditionalDelegateTransfer,Proxy

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DogShelter,DogShelter.bytecode,transfer,Transaction Limitation
+DogShelter,DogShelter.bytecode,mintToken,Token Generation
+DogShelter,DogShelter.bytecode,destroyAllTokens,Destroy Token

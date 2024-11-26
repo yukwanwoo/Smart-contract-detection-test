@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MarsquakeSWAP,MarsquakeSWAP.bytecode,destroyTokens,Destroy Token

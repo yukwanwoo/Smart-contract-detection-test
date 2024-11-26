@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TOMIToken,TOMIToken.bytecode,transferFromAny,Funds Manipulation

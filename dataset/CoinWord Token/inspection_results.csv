@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CoinWord Token,CoinWord Token.bytecode,transfer,Transaction Limitation
+CoinWord Token,CoinWord Token.bytecode,transferFrom,Funds manipulation

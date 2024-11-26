@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Matrix,Matrix.bytecode,transfer,Fee
+Matrix,Matrix.bytecode,transferDuringTimeWindow,Proxy
+Matrix,Matrix.bytecode,transferAtSpecificBlock,Funds Manipulation

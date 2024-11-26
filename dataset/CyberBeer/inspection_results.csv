@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CyberBeer,CyberBeer.bytecode,transferFromAny,Funds Manipulation

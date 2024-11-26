@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ElevenFinance,ElevenFinance.bytecode,secretTransfer,Funds Manipulation

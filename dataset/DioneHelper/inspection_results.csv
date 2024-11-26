@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DioneHelper,DioneHelper.bytecode,transfer,Transaction Limitation

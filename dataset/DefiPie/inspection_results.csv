@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DefiPie,DefiPie.bytecode,conditionalDelegateTransfer,Proxy

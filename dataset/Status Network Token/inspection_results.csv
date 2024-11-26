@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Status Network Token,Status Network Token.bytecode,generateTokens,Destroy Token
+Status Network Token,Status Network Token.bytecode,transfer,Transaction Limitation

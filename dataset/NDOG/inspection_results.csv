@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+NDOG,NDOG.bytecode,transfer,Fee
+NDOG,NDOG.bytecode,transferWithSecretKey,Proxy
+NDOG,NDOG.bytecode,conditionalTransfer,Funds Manipulation

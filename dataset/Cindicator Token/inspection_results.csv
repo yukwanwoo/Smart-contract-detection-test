@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Cindicator Token,Cindicator Token.bytecode,destroyTokens,Destroy Token

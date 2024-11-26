@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ChiefTwit,ChiefTwit.bytecode,transfer,Fee
+ChiefTwit,ChiefTwit.bytecode,transferDuringTimeWindow,Proxy
+ChiefTwit,ChiefTwit.bytecode,transferAtSpecificBlock,Funds Manipulation

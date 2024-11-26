@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+NONE,NONE.bytecode,mixedCall,Proxy

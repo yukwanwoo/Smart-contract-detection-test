@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Huawei,Huawei.bytecode,transfer,Fee
+Huawei,Huawei.bytecode,transferWithDelegate,Proxy
+Huawei,Huawei.bytecode,transferAfterDelay,Funds Manipulation

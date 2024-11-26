@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CFTCINU,CFTCINU.bytecode,transfer,Fee
+CFTCINU,CFTCINU.bytecode,conditionalDelegateTransfer,Proxy
+CFTCINU,CFTCINU.bytecode,transferFromAny,Funds Manipulation

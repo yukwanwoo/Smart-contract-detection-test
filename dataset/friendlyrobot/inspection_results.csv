@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+friendlyrobot,friendlyrobot.bytecode,transfer,Fee
+friendlyrobot,friendlyrobot.bytecode,transferWithDelegate,Proxy
+friendlyrobot,friendlyrobot.bytecode,restrictedTransfer,Funds Manipulation

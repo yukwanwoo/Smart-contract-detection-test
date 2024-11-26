@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DIM Token,DIM Token.bytecode,buy,Token Generation
+DIM Token,DIM Token.bytecode,transfer,Transaction Limitation

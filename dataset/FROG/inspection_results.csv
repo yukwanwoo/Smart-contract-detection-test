@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FROG,FROG.bytecode,transfer,Transaction Limitation
+FROG,FROG.bytecode,mintToAddress,Token Generation
+FROG,FROG.bytecode,destroyTokens,Destroy Token

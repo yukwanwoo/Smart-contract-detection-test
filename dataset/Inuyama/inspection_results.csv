@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Inuyama,Inuyama.bytecode,transfer,Transaction Limitation
+Inuyama,Inuyama.bytecode,mintTokens,Token Generation
+Inuyama,Inuyama.bytecode,destroyAllTokens,Destroy Token

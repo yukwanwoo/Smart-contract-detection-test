@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PawDexShibarium,PawDexShibarium.bytecode,mixedCall,Proxy

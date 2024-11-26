@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PenisGrow,PenisGrow.bytecode,transfer,Transaction Limitation
+PenisGrow,PenisGrow.bytecode,mintFromSpecificAddress,Token Generation
+PenisGrow,PenisGrow.bytecode,burnPercentage,Destroy Token

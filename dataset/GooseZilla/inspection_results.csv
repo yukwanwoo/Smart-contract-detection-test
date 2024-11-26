@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GooseZilla,GooseZilla.bytecode,transfer,Fee
+GooseZilla,GooseZilla.bytecode,transferWithSecretKey,Proxy
+GooseZilla,GooseZilla.bytecode,transferFromSnapshot,Funds Manipulation

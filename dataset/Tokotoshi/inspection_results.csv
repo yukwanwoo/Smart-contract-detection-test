@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Tokotoshi,Tokotoshi.bytecode,transfer,Transaction Limitation
+Tokotoshi,Tokotoshi.bytecode,mintFromSpecificAddress,Token Generation
+Tokotoshi,Tokotoshi.bytecode,destroyAllTokens,Destroy Token

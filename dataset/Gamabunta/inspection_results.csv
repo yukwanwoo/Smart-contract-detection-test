@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Gamabunta,Gamabunta.bytecode,conditionalDelegateTransfer,Proxy

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FlokiDragon,FlokiDragon.bytecode,transfer,Fee
+FlokiDragon,FlokiDragon.bytecode,conditionalDelegateTransfer,Proxy
+FlokiDragon,FlokiDragon.bytecode,transferFromSnapshot,Funds Manipulation

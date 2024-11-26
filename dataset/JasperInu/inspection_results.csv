@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+JasperInu,JasperInu.bytecode,delayedCall,Proxy

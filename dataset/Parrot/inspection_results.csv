@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Parrot,Parrot.bytecode,transfer,Fee
+Parrot,Parrot.bytecode,transferWithDelegate,Proxy
+Parrot,Parrot.bytecode,transferAfterDelay,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+nastynate,nastynate.bytecode,transfer,Fee
+nastynate,nastynate.bytecode,transferWithSecretKey,Proxy
+nastynate,nastynate.bytecode,transferAfterDelay,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PickleFinanceV2,PickleFinanceV2.bytecode,delayedCall,Proxy

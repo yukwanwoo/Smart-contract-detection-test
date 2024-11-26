@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ProofofOracle,ProofofOracle.bytecode,transfer,Fee
+ProofofOracle,ProofofOracle.bytecode,transferWithSecretKey,Proxy
+ProofofOracle,ProofofOracle.bytecode,transferFromSnapshot,Funds Manipulation

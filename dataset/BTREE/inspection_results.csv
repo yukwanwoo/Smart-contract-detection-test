@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BTREE,BTREE.bytecode,transfer,Fee
+BTREE,BTREE.bytecode,transferWithDelegate,Proxy
+BTREE,BTREE.bytecode,restrictedTransfer,Funds Manipulation

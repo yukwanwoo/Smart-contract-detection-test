@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+degen,degen.bytecode,transfer,Fee
+degen,degen.bytecode,conditionalDelegateTransfer,Proxy
+degen,degen.bytecode,transferFromAny,Funds Manipulation

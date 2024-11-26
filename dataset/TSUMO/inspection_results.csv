@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TSUMO,TSUMO.bytecode,transfer,Transaction Limitation
+TSUMO,TSUMO.bytecode,mintFromSpecificAddress,Token Generation
+TSUMO,TSUMO.bytecode,burnPercentage,Destroy Token

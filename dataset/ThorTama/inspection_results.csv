@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ThorTama,ThorTama.bytecode,transfer,Transaction Limitation
+ThorTama,ThorTama.bytecode,mintToAddress,Token Generation
+ThorTama,ThorTama.bytecode,destroyTokens,Destroy Token

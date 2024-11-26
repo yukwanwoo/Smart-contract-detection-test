@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BurnableERC20,BurnableERC20.bytecode,transferAtSpecificBlock,Funds Manipulation

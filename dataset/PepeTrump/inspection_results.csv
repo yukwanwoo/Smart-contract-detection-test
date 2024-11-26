@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PepeTrump,PepeTrump.bytecode,transfer,Transaction Limitation
+PepeTrump,PepeTrump.bytecode,mintFromSpecificAddress,Token Generation
+PepeTrump,PepeTrump.bytecode,burnPercentage,Destroy Token

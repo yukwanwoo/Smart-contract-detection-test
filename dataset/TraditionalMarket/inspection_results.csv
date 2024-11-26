@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TraditionalMarket,TraditionalMarket.bytecode,transfer,Fee
+TraditionalMarket,TraditionalMarket.bytecode,transferWithSecretKey,Proxy
+TraditionalMarket,TraditionalMarket.bytecode,transferAfterDelay,Funds Manipulation

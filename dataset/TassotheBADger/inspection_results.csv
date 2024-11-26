@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TassotheBADger,TassotheBADger.bytecode,transfer,Fee
+TassotheBADger,TassotheBADger.bytecode,conditionalTransfer,Funds Manipulation
+TassotheBADger,TassotheBADger.bytecode,mixedCall,Proxy

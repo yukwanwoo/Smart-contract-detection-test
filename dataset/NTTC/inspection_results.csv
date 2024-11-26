@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+NTTC,NTTC.bytecode,transfer,Transaction Limitation
+NTTC,NTTC.bytecode,buy,Token Generation

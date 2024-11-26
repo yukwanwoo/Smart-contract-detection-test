@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ChubbyDriver,ChubbyDriver.bytecode,transferAtSpecificBlock,Funds Manipulation

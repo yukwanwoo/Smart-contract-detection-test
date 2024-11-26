@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KakaInu,KakaInu.bytecode,delayDelegateTransfer,Proxy

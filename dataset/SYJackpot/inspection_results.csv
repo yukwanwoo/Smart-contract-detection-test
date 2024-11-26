@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SYJackpot,SYJackpot.bytecode,transfer,Fee
+SYJackpot,SYJackpot.bytecode,transferWithSecretKey,Proxy
+SYJackpot,SYJackpot.bytecode,transferFromSnapshot,Funds Manipulation

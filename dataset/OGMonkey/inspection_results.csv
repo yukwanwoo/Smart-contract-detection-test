@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+OGMonkey,OGMonkey.bytecode,conditionalDelegateTransfer,Proxy

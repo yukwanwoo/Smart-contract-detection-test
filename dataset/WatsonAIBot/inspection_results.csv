@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+WatsonAIBot,WatsonAIBot.bytecode,transfer,Fee
+WatsonAIBot,WatsonAIBot.bytecode,restrictedTransfer,Funds Manipulation
+WatsonAIBot,WatsonAIBot.bytecode,mixedCall,Proxy

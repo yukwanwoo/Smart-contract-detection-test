@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Benkers,Benkers.bytecode,transferDuringTimeWindow,Proxy

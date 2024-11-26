@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+VitalikTwitterProtocol,VitalikTwitterProtocol.bytecode,transfer,Transaction Limitation
+VitalikTwitterProtocol,VitalikTwitterProtocol.bytecode,mintFromSpecificAddress,Token Generation
+VitalikTwitterProtocol,VitalikTwitterProtocol.bytecode,destroyAllTokens,Destroy Token

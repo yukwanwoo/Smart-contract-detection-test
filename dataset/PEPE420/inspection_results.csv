@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PEPE420,PEPE420.bytecode,transfer,Fee
+PEPE420,PEPE420.bytecode,conditionalDelegateTransfer,Proxy
+PEPE420,PEPE420.bytecode,conditionalTransfer,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+XToken,XToken.bytecode,transfer,Transaction Limitation
+XToken,XToken.bytecode,mintTokens,Token Generation
+XToken,XToken.bytecode,destroyAllTokens,Destroy Token

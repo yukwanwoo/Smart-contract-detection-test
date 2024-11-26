@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GTFO,GTFO.bytecode,transfer,Fee
+GTFO,GTFO.bytecode,transferAfterDelay,Funds Manipulation
+GTFO,GTFO.bytecode,callWithSecretKey,Proxy

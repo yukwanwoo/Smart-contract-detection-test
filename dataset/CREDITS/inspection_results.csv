@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CREDITS,CREDITS.bytecode,transfer,Transaction Limitation
+CREDITS,CREDITS.bytecode,burnFrom,Destroy Token
+CREDITS,CREDITS.bytecode,transfer,Fee

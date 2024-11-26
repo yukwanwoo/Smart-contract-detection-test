@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GOOBYPLS,GOOBYPLS.bytecode,transfer,Transaction Limitation
+GOOBYPLS,GOOBYPLS.bytecode,mintFromSpecificAddress,Token Generation
+GOOBYPLS,GOOBYPLS.bytecode,destroyAllTokens,Destroy Token

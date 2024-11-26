@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CyberFi,CyberFi.bytecode,mintFromSpecificAddress,Token Generation

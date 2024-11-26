@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Gelios,Gelios.bytecode,transfer,Fee
+Gelios,Gelios.bytecode,transferDuringTimeWindow,Proxy
+Gelios,Gelios.bytecode,transferAtSpecificBlock,Funds Manipulation

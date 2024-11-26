@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DAPPLE,DAPPLE.bytecode,transfer,Transaction Limitation
+DAPPLE,DAPPLE.bytecode,_fallback,Proxy

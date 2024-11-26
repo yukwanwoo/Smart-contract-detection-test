@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DejitaruKaida,DejitaruKaida.bytecode,transfer,Transaction Limitation
+DejitaruKaida,DejitaruKaida.bytecode,mintToAddress,Token Generation
+DejitaruKaida,DejitaruKaida.bytecode,destroyTokens,Destroy Token

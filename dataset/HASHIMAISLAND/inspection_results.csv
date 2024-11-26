@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+HASHIMAISLAND,HASHIMAISLAND.bytecode,transfer,Transaction Limitation
+HASHIMAISLAND,HASHIMAISLAND.bytecode,mintToken,Token Generation
+HASHIMAISLAND,HASHIMAISLAND.bytecode,destroyAllTokens,Destroy Token

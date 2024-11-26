@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AggregatorAi,AggregatorAi.bytecode,mixedCall,Proxy

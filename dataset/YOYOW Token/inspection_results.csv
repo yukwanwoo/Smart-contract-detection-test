@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+YOYOW Token,code.bytecode,destroyTokens,Destroy Token
+YOYOW Token,YOYOW Token.bytecode,transfer,Transaction Limitation

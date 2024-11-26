@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ULU,ULU.bytecode,updateState,Destroy Token

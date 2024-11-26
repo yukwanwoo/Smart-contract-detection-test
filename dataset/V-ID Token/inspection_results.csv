@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+V-ID Token,V-ID Token.bytecode,transfer,Transaction Limitation
+V-ID Token,V-ID Token.bytecode,_fallback,Proxy

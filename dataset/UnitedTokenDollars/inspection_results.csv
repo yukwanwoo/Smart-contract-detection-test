@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+UnitedTokenDollars,UnitedTokenDollars.bytecode,buy,Token Generation
+UnitedTokenDollars,UnitedTokenDollars.bytecode,transfer,Transaction Limitation
+UnitedTokenDollars,UnitedTokenDollars.bytecode,destroyTokens,Destroy Token

@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DCCB,DCCB.bytecode,transfer,Transaction Limitation
+DCCB,DCCB.bytecode,_fallback,Proxy

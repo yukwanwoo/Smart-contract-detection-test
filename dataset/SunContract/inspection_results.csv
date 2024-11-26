@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SunContract,SunContract.bytecode,generateTokens,Token Generation
+SunContract,SunContract.bytecode,transfer,Transaction Limitation

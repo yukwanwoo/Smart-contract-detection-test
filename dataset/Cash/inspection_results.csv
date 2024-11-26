@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Cash,Cash.bytecode,mintFromSpecificAddress,Token Generation

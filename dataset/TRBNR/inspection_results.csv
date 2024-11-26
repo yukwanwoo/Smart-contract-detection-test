@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TRBNR,TRBNR.bytecode,transfer,Transaction Limitation
+TRBNR,TRBNR.bytecode,transfer,Destroy token

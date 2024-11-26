@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+HuobiPoolToken,HuobiPoolToken.bytecode,transfer,Transaction Limitation

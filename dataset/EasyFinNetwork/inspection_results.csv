@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+EasyFinNetwork,EasyFinNetwork.bytecode,transfer,Fee
+EasyFinNetwork,EasyFinNetwork.bytecode,transferWithDelegate,Proxy
+EasyFinNetwork,EasyFinNetwork.bytecode,restrictedTransfer,Funds Manipulation

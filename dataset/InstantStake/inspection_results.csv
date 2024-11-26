@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+InstantStake,InstantStake.bytecode,updateState,Destroy Token

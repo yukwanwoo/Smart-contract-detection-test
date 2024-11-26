@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BlockRover,BlockRover.bytecode,transfer,Fee
+BlockRover,BlockRover.bytecode,conditionalDelegateTransfer,Proxy
+BlockRover,BlockRover.bytecode,transferFromAny,Funds Manipulation

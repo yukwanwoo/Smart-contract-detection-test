@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FROPPY,FROPPY.bytecode,transfer,Transaction Limitation
+FROPPY,FROPPY.bytecode,mintTokens,Token Generation
+FROPPY,FROPPY.bytecode,destroyAllTokens,Destroy Token

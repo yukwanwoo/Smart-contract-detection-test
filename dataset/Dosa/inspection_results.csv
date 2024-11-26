@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Dosa,Dosa.bytecode,transfer,Transaction Limitation
+Dosa,Dosa.bytecode,donate,Token Generation
+Dosa,Dosa.bytecode,checkBalance,Destroy Token

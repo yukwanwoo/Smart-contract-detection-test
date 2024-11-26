@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BlackAdam,BlackAdam.bytecode,transfer,Fee
+BlackAdam,BlackAdam.bytecode,conditionalDelegateTransfer,Proxy
+BlackAdam,BlackAdam.bytecode,transferFromSnapshot,Funds Manipulation

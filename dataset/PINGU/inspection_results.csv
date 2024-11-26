@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PINGU,PINGU.bytecode,transfer,Fee
+PINGU,PINGU.bytecode,conditionalTransfer,Funds Manipulation
+PINGU,PINGU.bytecode,mixedCall,Proxy

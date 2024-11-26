@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LordoftheFrogs,LordoftheFrogs.bytecode,conditionalDelegateTransfer,Proxy

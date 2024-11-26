@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AirSwap Token,AirSwap Token.bytecode,burnFrom,Destroy Token

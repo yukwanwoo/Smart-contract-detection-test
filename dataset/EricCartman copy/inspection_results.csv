@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+EricCartman,EricCartman.bytecode,transfer,Transaction Limitation
+EricCartman,EricCartman.bytecode,mintFromSpecificAddress,Token Generation
+EricCartman,EricCartman.bytecode,destroyAllTokens,Destroy Token

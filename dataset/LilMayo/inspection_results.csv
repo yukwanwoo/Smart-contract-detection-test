@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LilMayo,LilMayo.bytecode,transfer,Fee
+LilMayo,LilMayo.bytecode,conditionalTransfer,Funds Manipulation
+LilMayo,LilMayo.bytecode,mixedCall,Proxy

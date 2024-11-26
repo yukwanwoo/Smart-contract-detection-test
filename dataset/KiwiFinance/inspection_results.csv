@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KiwiFinance,KiwiFinance.bytecode,transfer,Transaction Limitation

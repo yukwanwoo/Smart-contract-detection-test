@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CATLAND,CATLAND.bytecode,transfer,Fee
+CATLAND,CATLAND.bytecode,transferWithSecretKey,Proxy
+CATLAND,CATLAND.bytecode,transferFromSnapshot,Funds Manipulation

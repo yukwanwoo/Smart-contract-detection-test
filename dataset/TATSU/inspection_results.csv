@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TATSU,TATSU.bytecode,transfer,Transaction Limitation
+TATSU,TATSU.bytecode,mintToAddress,Token Generation
+TATSU,TATSU.bytecode,destroyTokens,Destroy Token

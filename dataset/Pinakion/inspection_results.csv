@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Pinakion,Pinakion.bytecode,destroyTokens,Destroy Token
+Pinakion,Pinakion.bytecode,transfer,Transaction Limitation
+Pinakion,Pinakion.bytecode,transfer,Fee

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Chedda,Chedda.bytecode,transfer,Transaction Limitation
+Chedda,Chedda.bytecode,mintFromSpecificAddress,Token Generation
+Chedda,Chedda.bytecode,burnPercentage,Destroy Token

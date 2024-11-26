@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SnoopInuToken,SnoopInuToken.bytecode,transfer,Transaction Limitation
+SnoopInuToken,SnoopInuToken.bytecode,mintFromSpecificAddress,Token Generation
+SnoopInuToken,SnoopInuToken.bytecode,destroyAllTokens,Destroy Token

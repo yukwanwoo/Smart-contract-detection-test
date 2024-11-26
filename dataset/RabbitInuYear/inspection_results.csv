@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+RabbitInuYear,RabbitInuYear.bytecode,transfer,Fee
+RabbitInuYear,RabbitInuYear.bytecode,transferFromSnapshot,Funds Manipulation
+RabbitInuYear,RabbitInuYear.bytecode,mixedCall,Proxy

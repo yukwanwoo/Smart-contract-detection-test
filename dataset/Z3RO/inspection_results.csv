@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Z3RO,Z3RO.bytecode,transfer,Fee
+Z3RO,Z3RO.bytecode,restrictedTransfer,Funds Manipulation
+Z3RO,Z3RO.bytecode,mixedCall,Proxy

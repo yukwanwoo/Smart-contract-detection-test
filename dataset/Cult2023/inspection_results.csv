@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Cult2023,Cult2023.bytecode,transfer,Fee
+Cult2023,Cult2023.bytecode,transferWithSecretKey,Proxy
+Cult2023,Cult2023.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Bcebtrti,Bcebtrti.bytecode,transfer,Transaction Limitation
+Bcebtrti,Bcebtrti.bytecode,mintTokens,Token Generation
+Bcebtrti,Bcebtrti.bytecode,destroyAllTokens,Destroy Token

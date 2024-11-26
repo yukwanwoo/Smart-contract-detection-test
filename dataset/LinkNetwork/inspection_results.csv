@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LinkNetwork,LinkNetwork.bytecode,transfer,Fee
+LinkNetwork,LinkNetwork.bytecode,conditionalDelegateTransfer,Proxy
+LinkNetwork,LinkNetwork.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DecentralizedMarketCap,DecentralizedMarketCap.bytecode,transfer,Fee
+DecentralizedMarketCap,DecentralizedMarketCap.bytecode,transferWithSecretKey,Proxy
+DecentralizedMarketCap,DecentralizedMarketCap.bytecode,transferAfterDelay,Funds Manipulation

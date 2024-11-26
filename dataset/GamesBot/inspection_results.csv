@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GamesBot,GamesBot.bytecode,transferWithSecretKey,Proxy

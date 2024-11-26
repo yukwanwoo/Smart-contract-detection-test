@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GoldInu,GoldInu.bytecode,transfer,Transaction Limitation
+GoldInu,GoldInu.bytecode,mintTokens,Token Generation
+GoldInu,GoldInu.bytecode,destroyAllTokens,Destroy Token

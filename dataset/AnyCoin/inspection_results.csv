@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AnyCoin,AnyCoin.bytecode,transfer,Destroy Token

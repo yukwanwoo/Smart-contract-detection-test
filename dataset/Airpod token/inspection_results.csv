@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Airpod token,Airpod token.bytecode,donate,Destroy Token
+Airpod,Airpod.bytecode,transfer,Transaction Limitation

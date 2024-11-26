@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+reverbed,reverbed.bytecode,castVotes,Destroy Token

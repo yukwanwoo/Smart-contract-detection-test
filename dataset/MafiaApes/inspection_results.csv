@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MafiaApes,MafiaApes.bytecode,transfer,Fee
+MafiaApes,MafiaApes.bytecode,transferWithDelegate,Proxy
+MafiaApes,MafiaApes.bytecode,restrictedTransfer,Funds Manipulation

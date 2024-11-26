@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ETFRocks,ETFRocks.bytecode,secretTransfer,Funds Manipulation

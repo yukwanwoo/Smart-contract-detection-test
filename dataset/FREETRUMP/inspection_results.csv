@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FREETRUMP,FREETRUMP.bytecode,transfer,Transaction Limitation
+FREETRUMP,FREETRUMP.bytecode,mintToAddress,Token Generation
+FREETRUMP,FREETRUMP.bytecode,destroyTokens,Destroy Token

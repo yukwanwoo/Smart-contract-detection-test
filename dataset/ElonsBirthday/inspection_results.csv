@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ElonsBirthday,ElonsBirthday.bytecode,transfer,Transaction Limitation
+ElonsBirthday,ElonsBirthday.bytecode,donate,Token Generation
+ElonsBirthday,ElonsBirthday.bytecode,checkBalance,Destroy Token

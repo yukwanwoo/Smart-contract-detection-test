@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GuardianForest,GuardianForest.bytecode,transfer,Fee
+GuardianForest,GuardianForest.bytecode,restrictedTransfer,Funds Manipulation
+GuardianForest,GuardianForest.bytecode,mixedCall,Proxy

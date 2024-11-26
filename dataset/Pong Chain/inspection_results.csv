@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Pong Chain,Pong Chain.bytecode,buy,Token Generation
+Pong Chain,Pong Chain.bytecode,transfer,Transaction Limitation

@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AARON,AARON.bytecode,burnFrom,Destroy Token
+AARON,AARON.bytecode,buy,Token Generation

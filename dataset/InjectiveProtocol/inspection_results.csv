@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+InjectiveProtocol,InjectiveProtocol.bytecode,transfer,Fee
+InjectiveProtocol,InjectiveProtocol.bytecode,transferDuringTimeWindow,Proxy
+InjectiveProtocol,InjectiveProtocol.bytecode,transferAtSpecificBlock,Funds Manipulation

@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Color Coin,Color Coin.bytecode,burnFrom,Destroy Token
+Color Coin,Color Coin.bytecode,transferFrom,Funds manipulation

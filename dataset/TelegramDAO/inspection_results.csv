@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TelegramDAO,TelegramDAO.bytecode,updateStatus,Destroy Token

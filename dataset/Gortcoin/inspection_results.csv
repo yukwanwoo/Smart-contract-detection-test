@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Gortcoin,Gortcoin.bytecode,transfer,Transaction Limitation
+Gortcoin,Gortcoin.bytecode,donate,Token Generation
+Gortcoin,Gortcoin.bytecode,checkBalance,Destroy Token

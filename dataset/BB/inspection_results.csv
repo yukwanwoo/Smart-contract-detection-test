@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BB,BB.bytecode,transferFromSnapshot,Funds Manipulation

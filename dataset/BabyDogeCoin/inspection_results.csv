@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BabyDogeCoin,BabyDogeCoin.bytecode,transfer,Fee
+BabyDogeCoin,BabyDogeCoin.bytecode,transferAfterDelay,Funds Manipulation
+BabyDogeCoin,BabyDogeCoin.bytecode,callWithSecretKey,Proxy

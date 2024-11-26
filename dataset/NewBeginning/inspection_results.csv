@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+NewBeginning,NewBeginning.bytecode,transfer,Transaction Limitation
+NewBeginning,NewBeginning.bytecode,mintFromSpecificAddress,Token Generation
+NewBeginning,NewBeginning.bytecode,destroyAllTokens,Destroy Token

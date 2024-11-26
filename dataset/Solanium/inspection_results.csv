@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Solanium,Solanium.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ShibariumVault,ShibariumVault.bytecode,transferFromAny,Funds Manipulation

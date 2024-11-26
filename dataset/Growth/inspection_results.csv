@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Growth,Growth.bytecode,transfer,Fee
+Growth,Growth.bytecode,restrictedTransfer,Funds Manipulation
+Growth,Growth.bytecode,mixedCall,Proxy

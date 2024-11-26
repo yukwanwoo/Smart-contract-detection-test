@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SmellyCat,SmellyCat.bytecode,transfer,Transaction Limitation
+SmellyCat,SmellyCat.bytecode,mintFromSpecificAddress,Token Generation
+SmellyCat,SmellyCat.bytecode,destroyAllTokens,Destroy Token

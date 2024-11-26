@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BabyToken,BabyToken.bytecode,transfer,Fee
+BabyToken,BabyToken.bytecode,conditionalDelegateTransfer,Proxy
+BabyToken,BabyToken.bytecode,conditionalTransfer,Funds Manipulation

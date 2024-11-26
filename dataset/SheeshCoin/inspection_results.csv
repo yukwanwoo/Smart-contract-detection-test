@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SheeshCoin,SheeshCoin.bytecode,transfer,Fee
+SheeshCoin,SheeshCoin.bytecode,transferWithDelegate,Proxy
+SheeshCoin,SheeshCoin.bytecode,restrictedTransfer,Funds Manipulation

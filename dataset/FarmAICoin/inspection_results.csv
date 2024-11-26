@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FarmAICoin,FarmAICoin.bytecode,transferAfterDelay,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SimpleERC20,SimpleERC20.bytecode,donate,Token Generation

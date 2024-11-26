@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CRYPTOSS Token,CRYPTOSS Token.bytecode,buy,Token Generation
+CRYPTOSS Token,CRYPTOSS Token.bytecode,transfer,Transaction Limitation
+CRYPTOSS Token,CRYPTOSS Token.bytecode,transferFrom,Funds manipulation

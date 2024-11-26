@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ZUENCAPITALCHAIN,ZUENCAPITALCHAIN.bytecode,transfer,Transaction Limitation
+ZUENCAPITALCHAIN,ZUENCAPITALCHAIN.bytecode,mintTokens,Token Generation
+ZUENCAPITALCHAIN,ZUENCAPITALCHAIN.bytecode,destroyAllTokens,Destroy Token

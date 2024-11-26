@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BitCoinInu,BitCoinInu.bytecode,transfer,Fee
+BitCoinInu,BitCoinInu.bytecode,restrictedTransfer,Funds Manipulation
+BitCoinInu,BitCoinInu.bytecode,mixedCall,Proxy

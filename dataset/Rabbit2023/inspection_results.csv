@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Rabbit2023,Rabbit2023.bytecode,transfer,Transaction Limitation
+Rabbit2023,Rabbit2023.bytecode,mintFromSpecificAddress,Token Generation
+Rabbit2023,Rabbit2023.bytecode,destroyAllTokens,Destroy Token

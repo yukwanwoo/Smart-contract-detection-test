@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Robotina token,Robotina token.bytecode,burnFrom,Destroy Token
+Robotina token,Robotina token.bytecode,transfer,Transaction Limitation

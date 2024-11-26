@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PandaCoin,PandaCoin.bytecode,transfer,Fee
+PandaCoin,PandaCoin.bytecode,transferWithSecretKey,Proxy
+PandaCoin,PandaCoin.bytecode,transferAfterDelay,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+B2BCoin,B2BCoin.bytecode,destroy,Destroy Token

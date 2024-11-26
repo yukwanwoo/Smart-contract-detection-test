@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TFcoin,TFcoin.bytecode,buy,Token Generation
+TFcoin,TFcoin.bytecode,transfer,Transaction Limitation
+TFcoin,TFcoin.bytecode,transfer,Fee

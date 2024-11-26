@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Chickereum,Chickereum.bytecode,transfer,Transaction Limitation
+Chickereum,Chickereum.bytecode,donate,Token Generation
+Chickereum,Chickereum.bytecode,checkBalance,Destroy Token

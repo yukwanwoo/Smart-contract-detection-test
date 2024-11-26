@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ERC20StandardToken,ERC20StandardToken.bytecode,transferFromSnapshot,Funds Manipulation

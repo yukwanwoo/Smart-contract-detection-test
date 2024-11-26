@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AtlasFunds,AtlasFunds.bytecode,transferWithSecretKey,Proxy

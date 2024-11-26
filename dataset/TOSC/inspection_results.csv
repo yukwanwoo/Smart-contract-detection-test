@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TOSC,code.bytecode,transfer,Transaction Limitation
+TOSC,code.bytecode,transfer,Destroy token

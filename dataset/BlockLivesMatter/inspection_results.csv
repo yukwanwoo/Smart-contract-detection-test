@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BlockLivesMatter,BlockLivesMatter.bytecode,transfer,Transaction Limitation
+BlockLivesMatter,BlockLivesMatter.bytecode,mintFromSpecificAddress,Token Generation
+BlockLivesMatter,BlockLivesMatter.bytecode,destroyAllTokens,Destroy Token

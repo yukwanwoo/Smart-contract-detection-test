@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LEAFTY,LEAFTY.bytecode,transfer,Transaction Limitation
+LEAFTY,LEAFTY.bytecode,mintTokens,Token Generation
+LEAFTY,LEAFTY.bytecode,destroyAllTokens,Destroy Token

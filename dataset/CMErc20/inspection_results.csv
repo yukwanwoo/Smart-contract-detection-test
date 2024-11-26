@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CMErc20,CMErc20.bytecode,mintFromSpecificAddress,Token Generation

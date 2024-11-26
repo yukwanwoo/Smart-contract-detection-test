@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+THEone,THEone.bytecode,transfer,Fee
+THEone,THEone.bytecode,transferWithDelegate,Proxy
+THEone,THEone.bytecode,restrictedTransfer,Funds Manipulation

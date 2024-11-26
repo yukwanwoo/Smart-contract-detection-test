@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PrimeApe,PrimeApe.bytecode,transfer,Transaction Limitation
+PrimeApe,PrimeApe.bytecode,mintFromSpecificAddress,Token Generation
+PrimeApe,PrimeApe.bytecode,destroyAllTokens,Destroy Token

@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Associated press Coins,Associated press Coins.bytecode,transfer,Destroy Token
+Associated press Coins,Associated press Coins.bytecode,buy,Token Generation

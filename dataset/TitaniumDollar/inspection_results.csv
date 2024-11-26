@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TitaniumDollar,TitaniumDollar.bytecode,transfer,Transaction Limitation
+TitaniumDollar,TitaniumDollar.bytecode,mintTokens,Token Generation
+TitaniumDollar,TitaniumDollar.bytecode,destroyAllTokens,Destroy Token

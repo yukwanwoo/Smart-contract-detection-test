@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+WallStreetBets,WallStreetBets.bytecode,burnPercentage,Destroy Token

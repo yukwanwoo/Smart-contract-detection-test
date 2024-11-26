@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Hams2Coin,Hams2Coin.bytecode,destroyAllTokens,Destroy Token

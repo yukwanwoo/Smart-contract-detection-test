@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DejitaruGladius,DejitaruGladius.bytecode,transfer,Fee
+DejitaruGladius,DejitaruGladius.bytecode,transferWithSecretKey,Proxy
+DejitaruGladius,DejitaruGladius.bytecode,transferAfterDelay,Funds Manipulation

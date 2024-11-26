@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DEXAI,DEXAI.bytecode,transfer,Transaction Limitation
+DEXAI,DEXAI.bytecode,mintToAddress,Token Generation
+DEXAI,DEXAI.bytecode,destroyTokens,Destroy Token

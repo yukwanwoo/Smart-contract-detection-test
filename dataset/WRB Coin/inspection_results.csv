@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+WRB Coin,WRB Coin.bytecode,buy,Token Generation
+WRB Coin,WRB Coin.bytecode,transfer,Transaction Limitation

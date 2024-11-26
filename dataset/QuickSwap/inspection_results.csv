@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+QuickSwap,QuickSwap.bytecode,castVotes,Destroy Token

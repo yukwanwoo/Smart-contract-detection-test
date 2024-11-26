@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ShiNobi,ShiNobi.bytecode,transfer,Fee
+ShiNobi,ShiNobi.bytecode,transferDuringTimeWindow,Proxy
+ShiNobi,ShiNobi.bytecode,transferAtSpecificBlock,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TradeAI,TradeAI.bytecode,transfer,Transaction Limitation
+TradeAI,TradeAI.bytecode,mintTokens,Token Generation
+TradeAI,TradeAI.bytecode,destroyAllTokens,Destroy Token

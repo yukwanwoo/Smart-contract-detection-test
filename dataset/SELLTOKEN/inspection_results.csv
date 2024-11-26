@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SELLTOKEN,SELLTOKEN.bytecode,transfer,Transaction Limitation
+SELLTOKEN,SELLTOKEN.bytecode,mintTokens,Token Generation
+SELLTOKEN,SELLTOKEN.bytecode,destroyAllTokens,Destroy Token

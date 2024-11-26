@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LiterallyUselessToken,LiterallyUselessToken.bytecode,transfer,Fee
+LiterallyUselessToken,LiterallyUselessToken.bytecode,conditionalDelegateTransfer,Proxy
+LiterallyUselessToken,LiterallyUselessToken.bytecode,transferFromAny,Funds Manipulation

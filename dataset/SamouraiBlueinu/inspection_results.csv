@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SamouraiBlueinu,SamouraiBlueinu.bytecode,transfer,Transaction Limitation
+SamouraiBlueinu,SamouraiBlueinu.bytecode,donate,Token Generation
+SamouraiBlueinu,SamouraiBlueinu.bytecode,checkBalance,Destroy Token

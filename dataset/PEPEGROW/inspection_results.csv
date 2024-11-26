@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PEPEGROW,PEPEGROW.bytecode,transfer,Transaction Limitation
+PEPEGROW,PEPEGROW.bytecode,mintFromSpecificAddress,Token Generation
+PEPEGROW,PEPEGROW.bytecode,destroyAllTokens,Destroy Token

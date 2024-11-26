@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+InsurChain Coin,InsurChain Coin.bytecode,burnFrom,Destroy Token

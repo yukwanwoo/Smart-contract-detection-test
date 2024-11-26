@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BitcoinPerpetualFutures,BitcoinPerpetualFutures.bytecode,transfer,Fee
+BitcoinPerpetualFutures,BitcoinPerpetualFutures.bytecode,restrictedTransfer,Funds Manipulation
+BitcoinPerpetualFutures,BitcoinPerpetualFutures.bytecode,mixedCall,Proxy

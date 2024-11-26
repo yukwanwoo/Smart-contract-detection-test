@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BennoInu,BennoInu.bytecode,transfer,Transaction Limitation
+BennoInu,BennoInu.bytecode,mintTokens,Token Generation
+BennoInu,BennoInu.bytecode,destroyAllTokens,Destroy Token

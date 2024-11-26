@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GOLDENTIME,GOLDENTIME.bytecode,buy,Token Generation
+GOLDENTIME,GOLDENTIME.bytecode,transfer,Transaction Limitation

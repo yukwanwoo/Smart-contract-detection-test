@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TwittereToro,TwittereToro.bytecode,transfer,Transaction Limitation
+TwittereToro,TwittereToro.bytecode,mintTokens,Token Generation
+TwittereToro,TwittereToro.bytecode,destroyAllTokens,Destroy Token

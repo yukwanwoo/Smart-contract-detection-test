@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ShillRaidBot,ShillRaidBot.bytecode,transfer,Fee
+ShillRaidBot,ShillRaidBot.bytecode,transferWithSecretKey,Proxy
+ShillRaidBot,ShillRaidBot.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+WorldCupShiba,WorldCupShiba.bytecode,transferWithSecretKey,Proxy

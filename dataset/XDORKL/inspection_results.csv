@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+XDORKL,XDORKL.bytecode,transfer,Fee
+XDORKL,XDORKL.bytecode,transferWithSecretKey,Proxy
+XDORKL,XDORKL.bytecode,conditionalTransfer,Funds Manipulation

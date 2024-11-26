@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Fidelity,Fidelity.bytecode,transfer,Transaction Limitation
+Fidelity,Fidelity.bytecode,mintTokens,Token Generation
+Fidelity,Fidelity.bytecode,destroyAllTokens,Destroy Token

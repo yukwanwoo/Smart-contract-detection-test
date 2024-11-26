@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GalaxyFinance,GalaxyFinance.bytecode,transferFromAny,Funds Manipulation

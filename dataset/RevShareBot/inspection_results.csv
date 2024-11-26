@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+RevShareBot,RevShareBot.bytecode,transfer,Fee
+RevShareBot,RevShareBot.bytecode,conditionalDelegateTransfer,Proxy
+RevShareBot,RevShareBot.bytecode,transferFromAny,Funds Manipulation

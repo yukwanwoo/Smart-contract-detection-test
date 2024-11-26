@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+QUESTORIA,QUESTORIA.bytecode,transfer,Transaction Limitation
+QUESTORIA,QUESTORIA.bytecode,donate,Token Generation
+QUESTORIA,QUESTORIA.bytecode,checkBalance,Destroy Token

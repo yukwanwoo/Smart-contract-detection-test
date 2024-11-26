@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TURNAROUND,TURNAROUND.bytecode,transfer,Fee
+TURNAROUND,TURNAROUND.bytecode,conditionalTransfer,Funds Manipulation
+TURNAROUND,TURNAROUND.bytecode,mixedCall,Proxy

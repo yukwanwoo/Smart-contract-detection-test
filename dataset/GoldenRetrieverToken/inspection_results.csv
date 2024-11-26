@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GoldenRetrieverToken,GoldenRetrieverToken.bytecode,transfer,Transaction Limitation
+GoldenRetrieverToken,GoldenRetrieverToken.bytecode,donate,Token Generation
+GoldenRetrieverToken,GoldenRetrieverToken.bytecode,checkBalance,Destroy Token

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Nutcoin,Nutcoin.bytecode,transferFromAny,Funds Manipulation

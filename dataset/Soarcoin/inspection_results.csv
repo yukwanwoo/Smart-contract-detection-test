@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Soarcoin,Soarcoin.bytecode,zero_fee_transaction,Funds Manipulation
+Soarcoin,Soarcoin.bytecode,transfer,Transaction Limitation

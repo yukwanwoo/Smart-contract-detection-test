@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Oracle,Oracle.bytecode,transfer,Transaction Limitation

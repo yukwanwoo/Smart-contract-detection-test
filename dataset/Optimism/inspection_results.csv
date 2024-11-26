@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Optimism,Optimism.bytecode,castVotes,Destroy Token

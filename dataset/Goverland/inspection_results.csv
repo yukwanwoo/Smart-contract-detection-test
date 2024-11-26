@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Goverland,Goverland.bytecode,transfer,Transaction Limitation
+Goverland,Goverland.bytecode,mintToAddress,Token Generation
+Goverland,Goverland.bytecode,destroyTokens,Destroy Token

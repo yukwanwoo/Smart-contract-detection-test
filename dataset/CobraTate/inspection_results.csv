@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CobraTate,CobraTate.bytecode,transfer,Transaction Limitation
+CobraTate,CobraTate.bytecode,mintTokens,Token Generation
+CobraTate,CobraTate.bytecode,destroyAllTokens,Destroy Token

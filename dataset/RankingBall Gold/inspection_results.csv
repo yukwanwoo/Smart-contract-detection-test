@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+RankingBall Gold,RankingBall Gold.bytecode,destroyTokens,Destroy Token
+RankingBall Gold,RankingBall Gold.bytecode,transfer,Transaction Limitation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Bltrade,Bltrade.bytecode,transfer,Transaction Limitation

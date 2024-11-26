@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TheHolyBonk,TheHolyBonk.bytecode,conditionalDelegateTransfer,Proxy

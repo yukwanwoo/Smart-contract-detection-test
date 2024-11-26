@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+GGTKtoken,GGTKtoken.bytecode,transfer,Fee
+GGTKtoken,GGTKtoken.bytecode,transferWithSecretKey,Proxy
+GGTKtoken,GGTKtoken.bytecode,transferAfterDelay,Funds Manipulation

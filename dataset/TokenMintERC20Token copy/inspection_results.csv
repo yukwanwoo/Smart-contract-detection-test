@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TokenMintERC20Token,TokenMintERC20Token.bytecode,transferFromAny,Funds Manipulation

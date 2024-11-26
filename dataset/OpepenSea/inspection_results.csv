@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+OpepenSea,OpepenSea.bytecode,transfer,Fee
+OpepenSea,OpepenSea.bytecode,conditionalDelegateTransfer,Proxy
+OpepenSea,OpepenSea.bytecode,transferFromSnapshot,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+YORI,YORI.bytecode,conditionalDelegateTransfer,Proxy

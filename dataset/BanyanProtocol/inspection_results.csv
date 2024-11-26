@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BanyanProtocol,BanyanProtocol.bytecode,transfer,Fee
+BanyanProtocol,BanyanProtocol.bytecode,transferWithSecretKey,Proxy
+BanyanProtocol,BanyanProtocol.bytecode,transferFromAny,Funds Manipulation

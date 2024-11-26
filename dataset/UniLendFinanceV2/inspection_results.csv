@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+UniLendFinanceV2,UniLendFinanceV2.bytecode,transfer,Transaction Limitation
+UniLendFinanceV2,UniLendFinanceV2.bytecode,mintTokens,Token Generation
+UniLendFinanceV2,UniLendFinanceV2.bytecode,destroyAllTokens,Destroy Token

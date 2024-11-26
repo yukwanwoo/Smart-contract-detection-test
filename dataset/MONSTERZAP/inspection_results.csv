@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MONSTERZAP,MONSTERZAP.bytecode,transfer,Transaction Limitation
+MONSTERZAP,MONSTERZAP.bytecode,mintFromSpecificAddress,Token Generation
+MONSTERZAP,MONSTERZAP.bytecode,burnPercentage,Destroy Token

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Testtoken,Testtoken.bytecode,transfer,Fee
+Testtoken,Testtoken.bytecode,transferAfterDelay,Funds Manipulation
+Testtoken,Testtoken.bytecode,callWithSecretKey,Proxy

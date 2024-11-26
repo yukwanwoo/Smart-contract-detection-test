@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TudaToken,TudaToken.bytecode,transfer,Transaction Limitation
+TudaToken,TudaToken.bytecode,transfer,Destroy token

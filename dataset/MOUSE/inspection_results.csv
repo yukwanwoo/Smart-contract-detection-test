@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MOUSE,MOUSE.bytecode,transferWithSecretKey,Proxy

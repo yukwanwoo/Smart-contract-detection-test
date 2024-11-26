@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+WormGodEmperor,WormGodEmperor.bytecode,transfer,Fee
+WormGodEmperor,WormGodEmperor.bytecode,conditionalDelegateTransfer,Proxy
+WormGodEmperor,WormGodEmperor.bytecode,conditionalTransfer,Funds Manipulation

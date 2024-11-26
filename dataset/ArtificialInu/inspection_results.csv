@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ArtificialInu,ArtificialInu.bytecode,transfer,Transaction Limitation
+ArtificialInu,ArtificialInu.bytecode,mintFromSpecificAddress,Token Generation
+ArtificialInu,ArtificialInu.bytecode,destroyAllTokens,Destroy Token

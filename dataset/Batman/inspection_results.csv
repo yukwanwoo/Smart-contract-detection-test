@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Batman,Batman.bytecode,transfer,Transaction Limitation
+Batman,Batman.bytecode,mintTokens,Token Generation
+Batman,Batman.bytecode,destroyAllTokens,Destroy Token

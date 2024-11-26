@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BookOfFurie,BookOfFurie.bytecode,transfer,Transaction Limitation
+BookOfFurie,BookOfFurie.bytecode,donate,Token Generation
+BookOfFurie,BookOfFurie.bytecode,checkBalance,Destroy Token

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ETHERIUM,ETHERIUM.bytecode,transferWithSecretKey,Proxy

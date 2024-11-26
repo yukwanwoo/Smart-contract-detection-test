@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SHIBMANIA,SHIBMANIA.bytecode,transfer,Fee
+SHIBMANIA,SHIBMANIA.bytecode,transferDuringTimeWindow,Proxy
+SHIBMANIA,SHIBMANIA.bytecode,transferAtSpecificBlock,Funds Manipulation

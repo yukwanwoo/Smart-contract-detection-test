@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Ren,Ren.bytecode,transfer,Transaction Limitation
+Ren,Ren.bytecode,mintFromSpecificAddress,Token Generation
+Ren,Ren.bytecode,burnPercentage,Destroy Token

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CrabCoin,CrabCoin.bytecode,transfer,Fee
+CrabCoin,CrabCoin.bytecode,transferFromSnapshot,Funds Manipulation
+CrabCoin,CrabCoin.bytecode,mixedCall,Proxy

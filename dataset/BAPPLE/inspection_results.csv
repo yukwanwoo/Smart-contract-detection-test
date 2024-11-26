@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BAPPLE,BAPPLE.bytecode,transfer,Fee
+BAPPLE,BAPPLE.bytecode,conditionalDelegateTransfer,Proxy
+BAPPLE,BAPPLE.bytecode,transferFromAny,Funds Manipulation

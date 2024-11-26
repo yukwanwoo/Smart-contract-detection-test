@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+PORKAI,PORKAI.bytecode,transfer,Transaction Limitation
+PORKAI,PORKAI.bytecode,mintTokens,Token Generation
+PORKAI,PORKAI.bytecode,destroyAllTokens,Destroy Token

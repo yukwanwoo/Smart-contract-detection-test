@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TopCoinFX,TopCoinFX.bytecode,transfer,Transaction Limitation
+TopCoinFX,TopCoinFX.bytecode,generateFunding,Funds manipulation

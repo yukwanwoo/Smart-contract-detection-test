@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BQCC Token,BQCC Token.bytecode,transfer,Transaction Limitation
+BQCC,BQCC.bytecode,transferFrom,Funds manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+TheDogeFather,TheDogeFather.bytecode,mixedCall,Proxy

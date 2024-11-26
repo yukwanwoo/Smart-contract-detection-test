@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Coin900 Exchange Coin,Coin900 Exchange Coin.bytecode,burnFrom,Destroy Token
+Coin900 Exchange Coin,Coin900 Exchange Coin.bytecode,transferFrom,Funds manipulation

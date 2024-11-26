@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LeagueofKingdomsArena,LeagueofKingdomsArena.bytecode,transfer,Fee
+LeagueofKingdomsArena,LeagueofKingdomsArena.bytecode,transferWithDelegate,Proxy
+LeagueofKingdomsArena,LeagueofKingdomsArena.bytecode,transferAfterDelay,Funds Manipulation

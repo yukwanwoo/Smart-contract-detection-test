@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AIMEW,AIMEW.bytecode,transfer,Fee
+AIMEW,AIMEW.bytecode,conditionalDelegateTransfer,Proxy
+AIMEW,AIMEW.bytecode,transferFromAny,Funds Manipulation

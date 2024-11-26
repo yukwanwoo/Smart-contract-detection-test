@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+XinBi Token,XinBi Token.bytecode,buy,Token Generation
+XinBi Token,XinBi Token.bytecode,transfer,Transaction Limitation

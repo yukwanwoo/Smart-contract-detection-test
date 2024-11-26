@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+WagieProtocol,WagieProtocol.bytecode,delayedCall,Proxy

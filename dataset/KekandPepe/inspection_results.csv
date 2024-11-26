@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+KekandPepe,KekandPepe.bytecode,transfer,Fee
+KekandPepe,KekandPepe.bytecode,transferWithSecretKey,Proxy
+KekandPepe,KekandPepe.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MemeCrushSaga,MemeCrushSaga.bytecode,delayedCall,Proxy

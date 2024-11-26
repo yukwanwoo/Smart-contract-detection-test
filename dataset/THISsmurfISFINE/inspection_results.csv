@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+THISsmurfISFINE,THISsmurfISFINE.bytecode,transfer,Fee
+THISsmurfISFINE,THISsmurfISFINE.bytecode,transferAfterDelay,Funds Manipulation
+THISsmurfISFINE,THISsmurfISFINE.bytecode,callWithSecretKey,Proxy

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+ArcticBear,ArcticBear.bytecode,transfer,Transaction Limitation
+ArcticBear,ArcticBear.bytecode,mintToken,Token Generation
+ArcticBear,ArcticBear.bytecode,destroyAllTokens,Destroy Token

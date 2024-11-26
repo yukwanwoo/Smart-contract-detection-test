@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Kennel,Kennel.bytecode,transferWithDelegate,Proxy

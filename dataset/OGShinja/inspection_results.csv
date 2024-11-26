@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+OGShinja,OGShinja.bytecode,transfer,Transaction Limitation
+OGShinja,OGShinja.bytecode,mintToAddress,Token Generation
+OGShinja,OGShinja.bytecode,destroyTokens,Destroy Token

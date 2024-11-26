@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Gintama,Gintama.bytecode,transfer,Transaction Limitation
+Gintama,Gintama.bytecode,mintFromSpecificAddress,Token Generation
+Gintama,Gintama.bytecode,destroyAllTokens,Destroy Token

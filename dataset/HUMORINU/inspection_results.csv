@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+HUMORINU,HUMORINU.bytecode,transfer,Fee
+HUMORINU,HUMORINU.bytecode,transferWithSecretKey,Proxy
+HUMORINU,HUMORINU.bytecode,transferFromAny,Funds Manipulation

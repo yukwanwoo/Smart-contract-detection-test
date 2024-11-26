@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SamurAI,SamurAI.bytecode,transfer,Fee
+SamurAI,SamurAI.bytecode,transferWithDelegate,Proxy
+SamurAI,SamurAI.bytecode,transferAfterDelay,Funds Manipulation

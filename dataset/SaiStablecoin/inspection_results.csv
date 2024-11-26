@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SaiStablecoin,SaiStablecoin.bytecode,transfer,Transaction Limitation
+SaiStablecoin,SaiStablecoin.bytecode,destroy,Destroy Token

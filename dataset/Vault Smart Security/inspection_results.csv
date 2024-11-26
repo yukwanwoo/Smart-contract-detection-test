@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Vault Smart Security,Vault Smart Security.bytecode,transfer,Transaction Limitation
+Vault Smart Security,Vault Smart Security.bytecode,_fallback,Proxy

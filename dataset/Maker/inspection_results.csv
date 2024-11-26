@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Maker,Maker.bytecode,transfer,Transaction Limitation
+Maker,Maker.bytecode,destroyCoins,Destroy Token

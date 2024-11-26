@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Lily,Lily.bytecode,transfer,Transaction Limitation
+Lily,Lily.bytecode,mintToAddress,Token Generation
+Lily,Lily.bytecode,destroyTokens,Destroy Token

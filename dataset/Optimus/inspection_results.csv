@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Optimus,Optimus.bytecode,conditionalDelegateTransfer,Proxy

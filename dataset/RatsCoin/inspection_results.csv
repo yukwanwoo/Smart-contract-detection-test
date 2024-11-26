@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+RatsCoin,RatsCoin.bytecode,transfer,Transaction Limitation
+RatsCoin,RatsCoin.bytecode,mintFromSpecificAddress,Token Generation
+RatsCoin,RatsCoin.bytecode,burnPercentage,Destroy Token

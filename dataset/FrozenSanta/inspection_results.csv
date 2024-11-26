@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+FrozenSanta,FrozenSanta.bytecode,transfer,Fee
+FrozenSanta,FrozenSanta.bytecode,transferWithSecretKey,Proxy
+FrozenSanta,FrozenSanta.bytecode,transferFromAny,Funds Manipulation

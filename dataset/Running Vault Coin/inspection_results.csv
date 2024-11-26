@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Running Vault Coin,Running Vault Coin.bytecode,burnFrom,Destroy Token
+Running Vault Coin,Running Vault Coin.bytecode,transfer,Transaction Limitation

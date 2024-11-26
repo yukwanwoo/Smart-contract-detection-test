@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MemeMan,MemeMan.bytecode,transfer,Transaction Limitation
+MemeMan,MemeMan.bytecode,mintToken,Token Generation
+MemeMan,MemeMan.bytecode,destroyAllTokens,Destroy Token

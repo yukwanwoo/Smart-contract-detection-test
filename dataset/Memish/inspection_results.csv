@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Memish,Memish.bytecode,burnPercentage,Destroy Token

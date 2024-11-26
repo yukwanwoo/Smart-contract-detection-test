@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+DarkWeb,DarkWeb.bytecode,transfer,Fee
+DarkWeb,DarkWeb.bytecode,restrictedTransfer,Funds Manipulation
+DarkWeb,DarkWeb.bytecode,mixedCall,Proxy

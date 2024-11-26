@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+NFTsea,NFTsea.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Boldcoin,Boldcoin.bytecode,transfer,Fee
+Boldcoin,Boldcoin.bytecode,transferWithSecretKey,Proxy
+Boldcoin,Boldcoin.bytecode,transferFromSnapshot,Funds Manipulation

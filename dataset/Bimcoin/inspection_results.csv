@@ -1,0 +1,3 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Bimcoin,Bimcoin.bytecode,transfer,Transaction Limitation
+Bimcoin,Bimcoin.bytecode,transferFrom,Funds manipulation

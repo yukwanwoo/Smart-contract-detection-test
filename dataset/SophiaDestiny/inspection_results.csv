@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+SophiaDestiny,SophiaDestiny.bytecode,transfer,Transaction Limitation
+SophiaDestiny,SophiaDestiny.bytecode,mintFromSpecificAddress,Token Generation
+SophiaDestiny,SophiaDestiny.bytecode,destroyAllTokens,Destroy Token

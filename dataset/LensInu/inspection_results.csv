@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+LensInu,LensInu.bytecode,transfer,Transaction Limitation
+LensInu,LensInu.bytecode,mintFromSpecificAddress,Token Generation
+LensInu,LensInu.bytecode,destroyAllTokens,Destroy Token

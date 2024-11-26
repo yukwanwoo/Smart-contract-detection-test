@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AudiMetaverse,AudiMetaverse.bytecode,transfer,Transaction Limitation
+AudiMetaverse,AudiMetaverse.bytecode,mintToken,Token Generation
+AudiMetaverse,AudiMetaverse.bytecode,destroyAllTokens,Destroy Token

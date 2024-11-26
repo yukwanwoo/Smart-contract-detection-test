@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+CryptoPunksCoin,CryptoPunksCoin.bytecode,transfer,Transaction Limitation
+CryptoPunksCoin,CryptoPunksCoin.bytecode,mintToken,Token Generation
+CryptoPunksCoin,CryptoPunksCoin.bytecode,destroyAllTokens,Destroy Token

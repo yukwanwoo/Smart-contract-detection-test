@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+MasonicEye,MasonicEye.bytecode,transfer,Transaction Limitation
+MasonicEye,MasonicEye.bytecode,mintFromSpecificAddress,Token Generation
+MasonicEye,MasonicEye.bytecode,destroyAllTokens,Destroy Token

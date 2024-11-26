@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+NinaPumps,NinaPumps.bytecode,transfer,Transaction Limitation
+NinaPumps,NinaPumps.bytecode,mintFromSpecificAddress,Token Generation
+NinaPumps,NinaPumps.bytecode,destroyAllTokens,Destroy Token

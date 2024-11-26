@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+RakeFinanceV2,RakeFinanceV2.bytecode,transferDuringTimeWindow,Proxy

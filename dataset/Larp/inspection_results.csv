@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+Larp,Larp.bytecode,transfer,Fee
+Larp,Larp.bytecode,restrictedTransfer,Funds Manipulation
+Larp,Larp.bytecode,mixedCall,Proxy

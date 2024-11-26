@@ -1,0 +1,2 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+BitcoinFinance,BitcoinFinance.bytecode,transferFromAny,Funds Manipulation

@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+AILOVEYOU,AILOVEYOU.bytecode,transfer,Fee
+AILOVEYOU,AILOVEYOU.bytecode,conditionalTransfer,Funds Manipulation
+AILOVEYOU,AILOVEYOU.bytecode,mixedCall,Proxy

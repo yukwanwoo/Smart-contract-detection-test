@@ -1,0 +1,4 @@
+TokenName,BytecodeFile,FunctionName,BackdoorTypes
+WORLDS,WORLDS.bytecode,transfer,Fee
+WORLDS,WORLDS.bytecode,transferWithSecretKey,Proxy
+WORLDS,WORLDS.bytecode,conditionalTransfer,Funds Manipulation
