@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Smart-contract-detection-test
 
 ### File structure
@@ -20,7 +19,7 @@
 #### /etc
 
 -   Evaluation result table file.
-=======
+
 ## Smart-contract-detection-test
 
 ### File structure
@@ -42,4 +41,3 @@
 #### /etc
 
 -   Evaluation result table file.
->>>>>>> cd57c50 (Initial commit)
