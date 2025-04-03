@@ -4,11 +4,8 @@ from modules.backdoor_code_inspector import BackdoorCodeInspector
 
 
 
-<<<<<<< HEAD
-CONTRACT_FILE = './dataset/Across/Across.bytecode'
-=======
 CONTRACT_FILE = './tokenCode/evalData/compiled/destroy/BabyProfofinu/BabyProfofinu.bytecode'
->>>>>>> cd57c50 (Initial commit)
+
 
 
 
